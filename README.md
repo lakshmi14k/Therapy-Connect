@@ -58,6 +58,12 @@ TherapyConnect/
 │
 ├── Diagrams/
 │   └── Optimization - Execution Plan.sqlplan  Before/after query plans
+├── Viz/
+│     ├── Master Viz Query.sql              Master Query for Visualization
+│     ├── Master Viz.csv                    Master Viz CSV to connect to Tableau
+│     ├── SQL Validations                   Tableau Validations
+│     ├── Therapy Connect.twbx              .twbx file
+│     └── Therapy Connect.pdf               .pdf file
 │
 └── README.md
 ```
@@ -143,7 +149,5 @@ Appointments (110,522) ← client_id, therapist_id
 - **Database Design:** Normalization, foreign keys, indexing strategy  
 
 Built with _T-SQL, SQL Server, and Data-Driven Problem Solving_
-
-**For detailed project documentation, click [here](Docs/Docs/Project Documentation.docx)**
 
 **For link to Tableau, click [here](https://public.tableau.com/views/TherapyConnect/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
