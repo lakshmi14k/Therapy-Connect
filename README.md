@@ -145,3 +145,5 @@ Appointments (110,522) ← client_id, therapist_id
 Built with _T-SQL, SQL Server, and Data-Driven Problem Solving_
 
 **For detailed project documentation, click [here](Docs/Project_Documentation.docx)**
+
+**For link to Tableau, click [here](https://public.tableau.com/views/TherapyConnect/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
